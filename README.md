@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dhananjaisharma09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11l641Y9ibN3xzLcFCOsK75yaCaBiFjef/view?usp=sharing](https://drive.google.com/file/d/11l641Y9ibN3xzLcFCOsK75yaCaBiFjef/view?usp=sharing)
+- 📄 My Website https://www.dhananjai.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
