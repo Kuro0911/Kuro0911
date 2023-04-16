@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjai Sharma ~ @Kuro0911</h1>
-<h3 align="center">a frontend dev</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 💬 Ask me about **Cpp, data structures, reactJs, nextJs**
 
